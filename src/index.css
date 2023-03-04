@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600&display=swap');
+
+* {
+  font-family: 'Jost', sans-serif;
+  scroll-behavior: smooth;
+}
+
+:root {
+  --main-color: #f75023;
+}
+
+::selection {
+  color: #ffffff;
+  background-color: var(--main-color);
+}

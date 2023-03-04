@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f063239.css",
+    "main.js": "/static/js/main.26d7eecb.js",
+    "static/media/climate-change-live-api.png": "/static/media/climate-change-live-api.354698afb3b4347e070e.png",
+    "static/media/cristiano-ronaldo-news-api.png": "/static/media/cristiano-ronaldo-news-api.30a0d9c968bab1c7363f.png",
+    "static/media/latest-ipl-news-api.png": "/static/media/latest-ipl-news-api.a4b772a60b471351f3be.png",
+    "static/media/flute.webp": "/static/media/flute.781a60ada3fa5ad58416.webp",
+    "index.html": "/index.html",
+    "main.0f063239.css.map": "/static/css/main.0f063239.css.map",
+    "main.26d7eecb.js.map": "/static/js/main.26d7eecb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f063239.css",
+    "static/js/main.26d7eecb.js"
+  ]
+}

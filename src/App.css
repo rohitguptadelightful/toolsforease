@@ -1,0 +1,11 @@
+.main{
+    min-height: 86vh;
+    height: fit-content;
+}
+
+.heading{
+    text-align: center;
+    color: var(--main-color);
+    font-size: 25px;
+    margin-top: 10px;
+}

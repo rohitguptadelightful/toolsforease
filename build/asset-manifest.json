@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f063239.css",
-    "main.js": "/static/js/main.26d7eecb.js",
+    "main.css": "/static/css/main.c1a19ced.css",
+    "main.js": "/static/js/main.fdef80b8.js",
     "static/media/climate-change-live-api.png": "/static/media/climate-change-live-api.354698afb3b4347e070e.png",
     "static/media/cristiano-ronaldo-news-api.png": "/static/media/cristiano-ronaldo-news-api.30a0d9c968bab1c7363f.png",
     "static/media/latest-ipl-news-api.png": "/static/media/latest-ipl-news-api.a4b772a60b471351f3be.png",
     "static/media/flute.webp": "/static/media/flute.781a60ada3fa5ad58416.webp",
+    "static/media/bot.svg": "/static/media/bot.9362931da131cc505be3dd7494b0dc4f.svg",
     "index.html": "/index.html",
-    "main.0f063239.css.map": "/static/css/main.0f063239.css.map",
-    "main.26d7eecb.js.map": "/static/js/main.26d7eecb.js.map"
+    "main.c1a19ced.css.map": "/static/css/main.c1a19ced.css.map",
+    "main.fdef80b8.js.map": "/static/js/main.fdef80b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f063239.css",
-    "static/js/main.26d7eecb.js"
+    "static/css/main.c1a19ced.css",
+    "static/js/main.fdef80b8.js"
   ]
 }

@@ -17,6 +17,7 @@ function App() {
                 discription={webapp.discription}
                 image={webapp.image}
                 key={webapp.key}
+                url={webapp.url}
               />
             })}
           </Row>
@@ -33,6 +34,7 @@ function App() {
                 discription={api.discription}
                 image={api.image}
                 key={api.key}
+                url={api.url}
               />
             })}
           </Row>
